@@ -4,7 +4,7 @@ This repo includes a basic Movie-App built with Alamofire, Kingfisher & TMDb API
 
 ## Usage
 
-You need to get your own API KEY from www.themoviedb.org , change your api key with "API_KEY" string where inside ApiConstant.string file.
+You need to get your own API KEY from www.themoviedb.org , change your api key with "YOUR_API_KEY" string where inside ApiConstant.string file.
 
 ## Requirements
  - iOS 13+
