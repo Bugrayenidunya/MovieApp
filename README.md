@@ -1,4 +1,4 @@
-# Welcome to Task To Myself!
+# Welcome to Movie-App!
 
 This repo includes a basic Movie-App built with Alamofire, Kingfisher & TMDb API's.
 
