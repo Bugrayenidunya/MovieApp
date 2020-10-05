@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  MobilliumMovieApp
+
+  Created by Bugra's Mac on 3.10.2020.
+  
+*/
+"homeTableViewSectionTitle" = "Yakında Vizyonda";
+"detailTableViewSectionTitle" = "Benzer Filmler";
+"homeNavTitle" = "Vizyondakiler";
+"searchNavTitle" = "Arama";
+"searchPlaceholder" = "TMDb'de ara";
